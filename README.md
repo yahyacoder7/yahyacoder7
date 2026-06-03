@@ -1,5 +1,5 @@
 # 💫 Wlcome Friend:
-<h2>I Am Yahya — A Backend Engineer Student</h2><br><br>🔭 I’m currently working on 'To Do Plus Project'<br>🌱 I’m currently learning nest.js and system design < redis  <br>📎 I'm UI/UX and infogrphic designer
+<h2>I Am Yahya — A Backend Engineer Student</h2><br><br>🔭 I’m currently working on 'Sentit Project'<br>🌱 I’m currently learning system design <br>📎 I'm UI/UX and infogrphic designer
 
 
 ## 🌐 Socials:
